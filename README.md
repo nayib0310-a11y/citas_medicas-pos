@@ -1,7 +1,9 @@
 # Mi producto
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+# Citas Médicas (`citas-medicas-pos`)
+
+> **Alumno:** Nayi Muñoz — Plataforma de gestión de citas médicas con agenda por bloques horarios y búsqueda binaria de disponibilidad.
+> Proyecto n.º 19 del catálogo · Sitio de referencia: Doctoralia · [PRD](docs/PRD.md) · URL publicada: Pendiente_
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
